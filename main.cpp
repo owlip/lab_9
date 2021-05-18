@@ -13,6 +13,10 @@ int main()
     cout << "Введите целое число 2: ";
     cin >> number2;
 
+    cout << "Сумма = " << number1 + number2 << endl;
+
     getchar();
+    getchar();
+    
     return 0;	
 }
