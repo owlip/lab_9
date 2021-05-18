@@ -18,6 +18,8 @@ int main()
     cout << "Сумма = " << number1 + number2 << endl;
     cout << "Разность = " << number1 - number2 << endl;
 
+    cout << "частное = " << number1 / number2 << endl;
+
 
     getchar();
     getchar();
