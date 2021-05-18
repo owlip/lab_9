@@ -14,6 +14,8 @@ int main()
     cin >> number2;
 
     cout << "Сумма = " << number1 + number2 << endl;
+    cout << "Разность = " << number1 - number2 << endl;
+
 
     getchar();
     getchar();
